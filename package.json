@@ -1,0 +1,8 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/thbighead/go-barber-server.git",
+  "author": "Thales Nathan <thcmatias@gmail.com>",
+  "license": "MIT"
+}
